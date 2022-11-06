@@ -1,0 +1,7 @@
+{
+  "name": "einkaufsapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

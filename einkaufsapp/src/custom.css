@@ -1,0 +1,63 @@
+.whiteSpace {
+    white-space: pre-line;
+    /*line-break: anywhere;*/
+}
+
+.creationDate {
+    font-size: 0.7em;
+    margin-bottom: 10px;
+}
+
+.recipeImg {
+    max-height: 250px;
+}
+
+.ownRating {
+    margin-top: 12px;
+}
+
+.ownRating,
+.recipe {
+    margin-bottom: 5px;
+}
+
+.ownRating,
+.homePage {
+    margin-bottom: 5px;
+}
+
+
+.ingredients-list {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
+
+.article img {
+    height: 70px;
+    margin-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.article h2,
+.article p {
+    text-align: center;
+}
+
+.articleItem {
+    --ion-item-background: #627552;
+}
+
+.shopping-list {
+    --ion-item-background: #5E3B4D;
+}
+
+.recipe {
+    --ion-item-background: #806f8a;
+}
+
+.articleListFiltered {
+    --ion-item-background: #718059;
+}

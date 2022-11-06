@@ -1,0 +1,14 @@
+{
+  "appId": "org.example.dailymoments",
+  "appName": "Einkaufs App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "cordova": {},
+  "windowsAndroidStudioPath": "C:\\Users\\Andre\\AppData\\Local\\JetBrains\\Toolbox\\apps\\AndroidStudio\\ch-0\\202.7351085\\bin\\studio64.exe"
+}
